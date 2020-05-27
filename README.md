@@ -1,5 +1,5 @@
 # Homework1 Code Refactor
-*Practiced on my github commit 
+*Practiced on my github commits
 
 *Cleaned up HTML and CSS code
 
@@ -10,3 +10,6 @@
 Link to Website:
 [my first website](https://dewdropstudio.github.io/HoriseonWebsite/)
 
+<img src="Navbar Section.png" width= 350px length=350px>
+
+<img src="Website Section.png" width= 350px length=350px>
